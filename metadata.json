@@ -1,0 +1,6 @@
+{
+  "name": "Marketing AI OS",
+  "description": "An AI-powered operating system for intelligent marketing automation, content strategy, and brand management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
